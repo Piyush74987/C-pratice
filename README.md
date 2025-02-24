@@ -43,10 +43,6 @@ The repository is organized based on different topics in C programming:
 - [x] Bubble Sort, Selection Sort, Insertion Sort
 - [x] Linear Search, Binary Search
 
-### 🔹 **Projects & Mini Applications**
-- [x] Tic-Tac-Toe Game 🎮
-- [x] Contact Management System 📞
-- [x] Simple Text Editor 📝
 
 ---
 
